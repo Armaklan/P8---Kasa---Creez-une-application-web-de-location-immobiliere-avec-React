@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b62ae52c.css",
-    "main.js": "/static/js/main.0356b0c3.js",
-    "static/js/787.34cd8e32.chunk.js": "/static/js/787.34cd8e32.chunk.js",
-    "static/media/bannerapropos.png": "/static/media/bannerapropos.ca36510f694dfe1d4bf6.png",
-    "static/media/IMG.png": "/static/media/IMG.969f0a4de80a6db1abb0.png",
-    "static/media/logokasa.png": "/static/media/logokasa.d4637cdd95d5e144b520.png",
-    "index.html": "/index.html",
-    "main.b62ae52c.css.map": "/static/css/main.b62ae52c.css.map",
-    "main.0356b0c3.js.map": "/static/js/main.0356b0c3.js.map",
-    "787.34cd8e32.chunk.js.map": "/static/js/787.34cd8e32.chunk.js.map"
+    "main.css": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/css/main.5cb196dc.css",
+    "main.js": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/js/main.bd99b254.js",
+    "static/js/787.34cd8e32.chunk.js": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/js/787.34cd8e32.chunk.js",
+    "static/media/bannerapropos.png": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/media/bannerapropos.ca36510f694dfe1d4bf6.png",
+    "static/media/IMG.png": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/media/IMG.969f0a4de80a6db1abb0.png",
+    "static/media/logokasa.png": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/media/logokasa.d4637cdd95d5e144b520.png",
+    "index.html": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/index.html",
+    "main.5cb196dc.css.map": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/css/main.5cb196dc.css.map",
+    "main.bd99b254.js.map": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/js/main.bd99b254.js.map",
+    "787.34cd8e32.chunk.js.map": "/P8---Kasa---Creez-une-application-web-de-location-immobiliere-avec-React/static/js/787.34cd8e32.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b62ae52c.css",
-    "static/js/main.0356b0c3.js"
+    "static/css/main.5cb196dc.css",
+    "static/js/main.bd99b254.js"
   ]
 }
